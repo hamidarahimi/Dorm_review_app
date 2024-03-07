@@ -6,4 +6,5 @@ You can also write a review so that it will show up under the Reviews section of
 select another room, or you can go back and make another search.
 
 ## Authors and acknowledgment
-The authors are Hamida Rahimi and Alexandra Guillen.
+The authors are Hamida Rahimi and Alexandra Guillen. Shoutout to all the coaches and Rui for helping us make this app!
+
